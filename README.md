@@ -12,7 +12,7 @@ A simple Python command-line to-do list app where you can add, view, and remove 
 
    ```bash
    git clone https://github.com/ricoswabii/do_it_app.git
-   cd doitnow_app
+   cd do_it_app
    ```
 
 2. Run the script:
