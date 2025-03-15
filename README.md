@@ -11,7 +11,7 @@ A simple Python command-line to-do list app where you can add, view, and remove 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/ricoswabii/todo_app.git
+   git clone https://github.com/ricoswabii/do_it_app.git
    cd todo_app
    ```
 
