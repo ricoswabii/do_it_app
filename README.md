@@ -1,26 +1,20 @@
-# do_it_app
+ Do-It-App
 
-A simple Python command-line to-do list app where you can add, view, and remove tasks.
+A simple command-line to-do list manager with task persistence.
 
-## Features:
-- Add tasks
-- Remove tasks
-- View all tasks
+## ✨ Features
 
-## How to Run:
-1. Clone this repository to your local machine:
+- Add, remove, and complete tasks
+- Tasks automatically saved to `tasks.txt`
+- Search tasks by keyword
+- View task statistics (completed/pending)
+- Clean, modular code structure
 
-   ```bash
-   git clone https://github.com/ricoswabii/do_it_app.git
-   cd do_it_app
-   ```
+## 🚀 Quick Start
 
-2. Run the script:
+```bash 
+# Clone or download the project
+cd do-it-app
 
-   ```bash
-   python doitnow.py
-   ```
-
-## License:
-MIT
-
+# Run the app
+python do-it-app.py
